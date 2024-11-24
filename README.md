@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Grace Wacheke 👋  
 
-<!--
-**wachekeg/wachekeg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌍 About Me  
+I am a **Geospatial Engineer** with extensive experience in **Geomatics, GIS, and Earth Observation**, specializing in:  
+- Spatial data analysis  
+- Remote sensing  
+- Drone data analysis  
 
-Here are some ideas to get you started:
+I am proficient in tools like **ArcGIS**, **QGIS**, and **LiDAR processing software**, and I’m currently advancing my skills in **Data Science** with a focus on **machine learning** and **data-driven spatial analysis**. My goal is to provide innovative solutions for **environmental monitoring** and **planning** by drawing actionable insights from spatial data.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills  
+- **Programming**: Python, SQL  
+- **GIS Tools**: ArcGIS, QGIS  
+- **Remote Sensing**: LiDAR, Earth Observation  
+
+## 🎯 Passion  
+I’m passionate about transforming complex spatial data into actionable insights to enable informed decision-making.  
+
+## 🌟 Hobbies  
+- 📚 Reading  
+- ✈️ Traveling  
+- 🤝 Volunteering  
+
+Feel free to connect or collaborate on any exciting projects!  
+
